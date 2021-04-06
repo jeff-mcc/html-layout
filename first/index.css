@@ -1,0 +1,33 @@
+.header{
+    width: 98vw;
+    height: 15vh;
+    background-color: rgb(68, 68, 68);
+}
+
+.sides > section{
+    width: 15vw;
+    height: 83vh;
+    background-color: rgb(221, 221, 221);
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.center > section{
+    display: block;
+    width: 98vw;
+}
+
+.top{
+    height: 75vh;
+}
+
+.bottom{
+    height: 8vh;
+    background-color: black;
+}
